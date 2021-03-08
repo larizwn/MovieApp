@@ -14,4 +14,4 @@ Ele é responsável pela leitura e escrita de dados, e também de suas validaç�
 ## Projeto
 Esta aplicação exibirá uma tabela de filmes. Ela permite ao usuário que ele _insira_ novos filmes na tabela, e também terá acesso para _editar_, _excluir_, e _pesquisar_, itens.
 
-Clique no link ao lado - [Tutorial Microsoft](https://docs.microsoft.com/pt-br/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-5.0&tabs=visual-studio)
+* Clique no link ao lado para acessar o tutorial - [Microsoft](https://docs.microsoft.com/pt-br/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-5.0&tabs=visual-studio)
