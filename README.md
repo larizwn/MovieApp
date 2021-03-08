@@ -18,18 +18,10 @@ Esta aplicação exibirá uma tabela de filmes. Ela permite ao usuário que ele 
 * Prints do funcionamento do projeto
 
 ## Tecnologias
-ASP.NET Core
-SDK (5.0.103) - [Download SDK](https://dotnet.microsoft.com/download/dotnet/thank-you/sdk-5.0.103-windows-x64-installer)
-Visual Studio Code (1.54.1) - [Download VS Code](https://code.visualstudio.com/download)
+* ASP.NET Core
+* SDK (5.0.103) - [Download SDK](https://dotnet.microsoft.com/download/dotnet/thank-you/sdk-5.0.103-windows-x64-installer)
+* Visual Studio Code (1.54.1) - [Download VS Code](https://code.visualstudio.com/download)
 
 ## Pacotes instalados
 Para a realização desse projeto no Visual Studio Code, você precisará instalar os [Pacotes Nuget](https://docs.microsoft.com/pt-br/aspnet/core/tutorials/first-mvc-app/adding-model?view=aspnetcore-5.0&tabs=visual-studio-code#add-nuget-packages)
-Execute os seguintes comandos da CLI do .NET:
-dotnet tool install --global dotnet-ef
-dotnet tool install --global dotnet-aspnet-codegenerator
-dotnet add package Microsoft.EntityFrameworkCore.SQLite
-dotnet add package Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore
-dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Design
-dotnet add package Microsoft.EntityFrameworkCore.Design
-dotnet add package Microsoft.EntityFrameworkCore.SqlServer
-dotnet add package Microsoft.Extensions.Logging.Debug
+
