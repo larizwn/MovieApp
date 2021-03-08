@@ -2,7 +2,7 @@
 Essa projeto é uma aplicação web com o padrão de arquitetura de software chamado MVC. 
 As aplicações do MVC são separadas em 3 camadas: Model, View, e Controller  
 
-* Model
+* _Model_
 Ele é responsável pela leitura e escrita de dados, e também de suas validações.
 
 * View
