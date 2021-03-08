@@ -21,7 +21,7 @@ Esta aplicação exibirá uma tabela de filmes. Ela permite ao usuário que ele 
 
 ## Tecnologias
 * ASP.NET Core
-* SDK (5.0.103) ->[Download SDK](https://dotnet.microsoft.com/download/dotnet/thank-you/sdk-5.0.103-windows-x64-installer)
+* SDK (5.0.103) -> [Download SDK](https://dotnet.microsoft.com/download/dotnet/thank-you/sdk-5.0.103-windows-x64-installer)
 * Visual Studio Code (1.54.1) -> [Download VS Code](https://code.visualstudio.com/download)
 
 ## Pacotes instalados
