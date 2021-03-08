@@ -25,5 +25,5 @@ Esta aplicação exibirá uma tabela de filmes. Ela permite ao usuário que ele 
 * Visual Studio Code (1.54.1) -> [Download VS Code](https://code.visualstudio.com/download)
 
 ## Pacotes instalados
-Para a realização desse projeto no Visual Studio Code, você precisará instalar os -> [Pacotes Nuget](https://docs.microsoft.com/pt-br/aspnet/core/tutorials/first-mvc-app/adding-model?view=aspnetcore-5.0&tabs=visual-studio-code#add-nuget-packages). Clique no link anterior e execute os seguintes comandos da CLI do .NET. 
+Para a realização desse projeto no Visual Studio Code, você precisará instalar os -> [Pacotes Nuget](https://docs.microsoft.com/pt-br/aspnet/core/tutorials/first-mvc-app/adding-model?view=aspnetcore-5.0&tabs=visual-studio-code#add-nuget-packages). Execute os comandos do pacote da CLI do .NET. 
 
